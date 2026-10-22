@@ -15,12 +15,13 @@ export const Hero: React.FC<HeroProps> = ({ onPlanEventClick, onExploreWorkClick
         <img
           src={HERO_IMAGE}
           alt="Luxury corporate gala banquet and stage production in Port Harcourt"
-          className="w-full h-full object-cover object-center filter brightness-[0.72] contrast-[1.05]"
-          referrerPolicy="no-referrer"
+          className="w-full h-full object-cover object-center"
+          fetchPriority="high"
+          loading="eager"
         />
         {/* Measured Scrim for WCAG AA Contrast */}
-        <div className="absolute inset-0 bg-gradient-to-t from-charcoal-950 via-charcoal-950/75 to-charcoal-950/40" />
-        <div className="absolute inset-0 bg-radial from-transparent via-charcoal-950/30 to-charcoal-950/80" />
+        <div className="absolute inset-0 bg-gradient-to-t from-charcoal-950 via-charcoal-950/55 to-charcoal-950/25" />
+        <div className="absolute inset-0 bg-radial from-charcoal-950/20 via-charcoal-950/15 to-charcoal-950/40" />
       </div>
 
       {/* Hero Content */}

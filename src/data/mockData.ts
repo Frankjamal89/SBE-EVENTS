@@ -1,6 +1,7 @@
 import { ServiceItem, PackageTier, PortfolioItem } from '../types';
+import heroImage from '../assets/images/hero_sbe_gala_1792658802247.jpg';
 
-export const HERO_IMAGE = '/src/assets/images/hero_sbe_gala_1792658802247.jpg';
+export const HERO_IMAGE = heroImage;
 export const BRAND_ACTIVATION_IMAGE = '/src/assets/images/brand_activation_showcase_1792658802510.jpg';
 export const CONFERENCE_IMAGE = '/src/assets/images/conference_summit_hall_1792658803544.jpg';
 export const WEDDING_IMAGE = '/src/assets/images/luxury_wedding_reception_1792658804137.jpg';
