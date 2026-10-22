@@ -1,0 +1,21 @@
+[
+  {
+    "id": "SBE-233664-619",
+    "fullName": "Chief Tonye George",
+    "phone": "08062283515",
+    "email": null,
+    "eventType": "Corporate Events",
+    "preferredDate": "2026-11-15",
+    "venueLocation": "Port Harcourt International Convention Centre",
+    "guestCount": "350 - 700 Guests",
+    "budgetRange": "₦7,500,000 - ₦15,000,000+",
+    "servicesRequired": [
+      "Concept & Theming",
+      "Stage Architecture & LED Backdrops"
+    ],
+    "additionalNotes": "Annual gala for energy executives.",
+    "selectedPackage": null,
+    "status": "new",
+    "submittedAt": "2026-10-22T08:53:53.664Z"
+  }
+]

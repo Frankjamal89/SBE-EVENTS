@@ -1,0 +1,6 @@
+{
+  "name": "SBE Events - Premium Event Management",
+  "description": "Premium event planning and coordination agency website for SBE Events in Port Harcourt, Rivers State, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
